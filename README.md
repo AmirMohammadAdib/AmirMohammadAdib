@@ -1,5 +1,5 @@
 
-## <img src="https://onlinegiftools.com/images/examples-onlinegiftools/totoro-transparent.gif" width="28"> A little about me
+## <img src="https://onlinegiftools.com/images/examples-onlinegiftools/totoro-transparent.gif" width="40"> A little about me
 
 ```php
 $information = [
