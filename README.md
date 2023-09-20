@@ -9,6 +9,7 @@ i always have love to `Computer` and `Laravel`:)
 some about me
 ```php
 $information = [
+  'description' => 'I'm Laravel developer from computer land',
   'personal' => [
     'first_name' => 'Amir',
     'last_name' => 'Amir',
@@ -22,11 +23,11 @@ $information = [
   'business' => [
     'expertise' => [
       'Back-end' => [
-        'Language' => 'PHP',
-        'Framework' => 'Laravel',
+        'language' => 'PHP',
+        'framework' => 'Laravel',
         'API' => ['Postman', 'OpenAPI', 'Swagger'],
-        'Architectures' => ["MVC", "clean", "SOLID"],
-        'Database' => 'Mysql',
+        'architectures' => ["MVC", "clean", "SOLID"],
+        'database' => 'Mysql',
       ],
     ],
     'connections' => ['github', 'linkdain', 'git'],
