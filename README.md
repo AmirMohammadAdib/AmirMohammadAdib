@@ -28,5 +28,3 @@ $information = [
   ],
 ];
 ```
----
-[My CV](https://google.com/)
